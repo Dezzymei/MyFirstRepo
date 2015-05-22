@@ -8,7 +8,7 @@
     "mocha": "*"
   },
   "scripts": {
-    "test": "grunt --verbose"
+    "test": "grunt --verbose",
     "test": "mocha"
   }
 }
